@@ -7,7 +7,6 @@
 ## Technologies Used
 
 * HTML
-* CSS
 * Javascript
 
 ## Description
